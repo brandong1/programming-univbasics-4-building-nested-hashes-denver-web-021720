@@ -1,9 +1,9 @@
 def base_hash
-	{:name => "Brandon"}
+	{:railroads => "Brandon"}
 end
 
 def monopoly_with_second_tier
-  {:railroads => "go"}
+  
 end
 
 def monopoly_with_third_tier
